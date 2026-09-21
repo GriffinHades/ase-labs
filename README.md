@@ -1,4 +1,4 @@
-[![Continuous Integration](https://github.com/GriffinHades/ase-labs/actions/workflows/ci.yml/badge.svg)](https://github.com/GriffinHades/ase-labs/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/GriffinHades/ase-labs/actions/workflows/ci.yml/badge.svg?branch=practice-2)](https://github.com/GriffinHades/ase-labs/actions/workflows/ci.yml)
 
 # Estimating Text Similarity by Shingling
 
